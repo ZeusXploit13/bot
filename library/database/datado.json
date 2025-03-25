@@ -1,0 +1,16 @@
+[
+  {
+    "kodebarang": "do1",
+    "namabarang": "digitalocean 10 droplet",
+    "hargabarang": 160000,
+    "stockbarang": 2,
+    "dropletbarang": "10"
+  },
+  {
+    "kodebarang": "do2",
+    "namabarang": "digitalocean 3 droplet",
+    "hargabarang": 130000,
+    "stockbarang": 5,
+    "dropletbarang": "3"
+  }
+]
